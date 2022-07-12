@@ -1,5 +1,3 @@
-Hi there 👋
-
 ![MasterHead](https://i.pinimg.com/originals/12/2e/a0/122ea0ba2df7259c087ad75ca641118b.gif)
 
 <!--
