@@ -1,6 +1,6 @@
 >aprendendo Python
 
-![MasterHead](https://64.media.tumblr.com/e93402bada0ece19d8b0b6c82b6bb501/tumblr_nxhrsjfmJc1rrkahjo1_540.gifv)
+![MasterHead](https://64.media.tumblr.com/1c0f7bac845e9f8e2614aef28781b265/846a3f41ebd1c58a-b1/s1280x1920/229bc0742114a1c6faa6efc8553df67b07579f5a.gifv)
 
 <!--
 **otaviosbms/otaviosbms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
