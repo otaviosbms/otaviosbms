@@ -1,6 +1,6 @@
 >aprendendo Python
 
-![MasterHead] [(https://tenor.com/view/anime-lofi-city-night-chill-gif-16619449)]
+https://tenor.com/view/anime-lofi-city-night-chill-gif-16619449
 
 <!--
 **otaviosbms/otaviosbms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
