@@ -1,6 +1,6 @@
 >aprendendo Python
 
-![MasterHead](https://64.media.tumblr.com/1c0f7bac845e9f8e2614aef28781b265/846a3f41ebd1c58a-b1/s1280x1920/229bc0742114a1c6faa6efc8553df67b07579f5a.gifv)
+![MasterHead][https://tenor.com/view/anime-lofi-city-night-chill-gif-16619449]
 
 <!--
 **otaviosbms/otaviosbms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
