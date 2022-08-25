@@ -1,6 +1,5 @@
->aprendendo Python
 
-https://tenor.com/view/anime-lofi-city-night-chill-gif-16619449
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **otaviosbms/otaviosbms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
