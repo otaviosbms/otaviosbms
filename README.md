@@ -4,7 +4,7 @@
 
 
 
-🌱 Atualmente aprendendo JavaScript e PHP.
+🌱 Atualmente estudando JavaScript e PHP.
 
  <a href="https://www.linkedin.com/in/ot%C3%A1vio-sbms-204165245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--
