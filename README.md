@@ -1,8 +1,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviosbms&langs_count=8)](https://github.com/otaviosbms/github-readme-stats)
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=otaviosbms&count_private=true&theme=tokyonight&showicons=true)]()
-https://github-stats-alpha.vercel.app/api?username={otaviosbms}
-
 
 
 🌱 Atualmente estudando JavaScript e PHP.
