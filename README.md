@@ -1,7 +1,6 @@
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviosbms&langs_count=8&theme=nightowl)](https://github.com/otaviosbms/github-readme-stats)
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=otaviosbms&count_private=true&theme=nightowl&showicons=true)]()
-
+  <img align="center" height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=otaviosbms&show_icons=true&theme=nightowl&include_all_commits=true">
+  <img align="center" height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=otaviosbms&layout=deffault&&theme=nightowl">
 
 🌱 Atualmente estudando JavaScript e PHP.
 
