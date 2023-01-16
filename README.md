@@ -1,7 +1,7 @@
 
 <div>
- <img align="center" height="230" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=otaviosbms&show_icons=true&theme=nightowl&include_all_commits=true">
-  <img align="center", height="230" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=otaviosbms&layout=deffault&&theme=nightowl">
+ <img align="center" height="240" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=otaviosbms&show_icons=true&theme=nightowl&include_all_commits=true">
+  <img align="center", height="240" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=otaviosbms&layout=deffault&&theme=nightowl">
 </div>
 
 <div>
