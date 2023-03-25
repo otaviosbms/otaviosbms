@@ -6,7 +6,7 @@
 
 <div>
   <p></p>
-  🌱 Atualmente estudando JavaScript e PHP.
+  🌱 Atualmente estudando JavaScript e PHP
   <p></p>
 </div>
 
