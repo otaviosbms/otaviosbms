@@ -6,7 +6,7 @@
 
 <div>
   <p></p>
-  🌱 Atualmente estudando PHP
+  🌱 Atualmente estudando PHP.
   <p></p>
 </div>
 
