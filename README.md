@@ -6,7 +6,7 @@
 
 <div>
   <p></p>
-  🌱 Atualmente estudando PHP e Orientação a Objetos.
+  🌱 Atualmente estudando PHP e Bancos de Dados.
   <p></p>
 </div>
 
