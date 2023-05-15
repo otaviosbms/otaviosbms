@@ -6,7 +6,7 @@
 
 <div>
   <p></p>
-  🌱 Atualmente estudando PHP e Bancos de Dados.
+  🌱 Atualmente estudando PHP e Bancos de Dados(SQL).
   <p></p>
 </div>
 
