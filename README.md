@@ -7,7 +7,7 @@
 
 <div>
   <p></p>
-  🌱 Atualmente estudando Laravel.
+  🌱 Atualmente estudando PHP / Laravel.
   <p></p>
 </div>
 
