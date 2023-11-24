@@ -9,7 +9,7 @@
   <p></p>
     💜 Laravel
     <br>
-    🌱 Atualmente estudando Docker e React.JS
+    🌱 Atualmente estudando React.JS
   <p></p>
 </div>
 
