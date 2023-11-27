@@ -16,7 +16,6 @@
  <a href="https://www.linkedin.com/in/otaviosbms/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
    <a href="https://www.instagram.com/otaviosbms/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
       <a href="https://otaviosbms.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-grey"></a>
-          <a
  <!--href="https://drive.google.com/drive/folders/1waqwNXj5UKmPgQ99_uujfD97rkSLF9Hh?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Currículo-white"></a>
 -->
 <!--
