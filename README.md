@@ -8,7 +8,7 @@
   <p></p>
     💜 Laravel
     <br>
-    🌱 Atualmente estudando Typescript
+    🌱 Atualmente estudando React.js
   <p></p>
 </div>
 
