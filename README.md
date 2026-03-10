@@ -5,7 +5,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=otaviosbms&theme=dracula" width="100%"/>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=otaviosbms&theme=dracula" width="49%"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=otaviosbms&theme=default" width="49%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=otaviosbms&theme=dracula" width="49%"/>
 
 </div>
 
