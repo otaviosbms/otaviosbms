@@ -11,9 +11,8 @@ Desenvolvedor Backend Pleno especializado em **TypeScript**, **NestJS** e **Lang
 ### Sobre mim
 
 - Desenvolvedor Pleno na **PedBot** (Grupo Funcional Health Tech), construindo produtos de IA para o varejo farmacêutico
-- Atuo no desenvolvimento do **MarIA**, chatbot de vendas com agentes de IA usado por grandes redes farmacêuticas nacionais como Drogarias Venâncio e Farmácia Indiana
+- Atuo no desenvolvimento do **MarIA**, chatbot de vendas com agentes de IA usado por grandes redes farmacêuticas nacionais como Drogarias Venâncio, Farmácia Indiana e Grupo DPSP
 - Cursando Bacharelado em Ciências da Computação no Centro Universitário Eurípides de Marília (UNIVEM), 2023 – 2026
-- Aberto a novas oportunidades como desenvolvedor backend
 
 <br/>
 
