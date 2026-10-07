@@ -1,10 +1,10 @@
 <div align="center">
 
-<a href="https://otaviosbms.github.io/portfolio" target="_blank"><img src="assets/banner.png" alt="Otávio Santos — Portfolio" width="100%"/></a>
+<a href="https://otavio-sbms.vercel.app" target="_blank"><img src="assets/banner.png" alt="Otávio Santos — Portfolio" width="100%"/></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=DC2626&center=true&vCenter=true&width=520&lines=Desenvolvedor+Fullstack+Pleno;TypeScript+%C2%B7+NestJS+%C2%B7+LangGraph;Automa%C3%A7%C3%B5es+%26+Agentes+de+IA" alt="Desenvolvedor Fullstack Pleno"/>
 
-<a href="https://otaviosbms.github.io/portfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-DC2626?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+<a href="https://otavio-sbms.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-DC2626?style=flat-square&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/otaviosbms/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:otaviosbms@hotmail.com"><img src="https://img.shields.io/badge/Email-1b1b1b?style=flat-square&logo=maildotru&logoColor=white"/></a>
 <a href="https://wa.me/5514998723399" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
